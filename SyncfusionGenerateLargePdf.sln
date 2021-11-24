@@ -6,9 +6,10 @@ MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{C6CE32AE-A647-4077-84CC-0FD89DB148E6}"
 	ProjectSection(SolutionItems) = preProject
 		global.json = global.json
+		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SyncfusionGenerateLargePdf", "src\SyncfusionGenerateLargePdf\SyncfusionGenerateLargePdf.csproj", "{965EB55E-E08D-4F41-9854-CB177541AEE8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SyncfusionGenerateLargePdf", "src\SyncfusionGenerateLargePdf\SyncfusionGenerateLargePdf.csproj", "{965EB55E-E08D-4F41-9854-CB177541AEE8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
