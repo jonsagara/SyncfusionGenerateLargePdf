@@ -5,6 +5,7 @@ VisualStudioVersion = 17.0.31912.275
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionItems", "{C6CE32AE-A647-4077-84CC-0FD89DB148E6}"
 	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
 		global.json = global.json
 		README.md = README.md
 	EndProjectSection
